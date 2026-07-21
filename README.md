@@ -51,7 +51,7 @@ The analysis covers:
 
 ## Author
 
-[Platadeamen] — prepared as part of independent preparation for undergraduate economics/finance studies.
+Aleksandr — prepared as part of independent preparation for undergraduate economics/finance studies.
 
 ## Limitations
 
