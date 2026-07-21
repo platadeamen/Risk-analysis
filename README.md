@@ -1,5 +1,3 @@
-# Risk-analysis
-Analysis of the stocks of three iconic French brands: Hérmes, Ralph Lauren, L'Oréal, LVMH, and Dior. The analysis is based on VaR, correlation, annual volatility, and returns, with all data taken from Yahoo Finance.
 # Portfolio Risk & Return Analysis
 
 A quantitative analysis of risk and return across five companies, using Python to calculate volatility, Value at Risk (VaR), and cross-asset correlation — with the goal of identifying a diversified, risk-aware portfolio allocation.
